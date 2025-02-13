@@ -280,7 +280,7 @@ a.text-dark:hover {
 		transform:rotate(45deg);
 	}
 	.navbar-brand {
-		width: 200px;
+		width: 160px;
 	}
 }
 .navbar-light .navbar-brand {
