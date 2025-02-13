@@ -1,11 +1,12 @@
 # Site
-name: 'US Jobs'
-description: 'US-Jobs: Your go-to source for the latest job trends, career advice, and employment opportunities across the USA.'
-logo: 'assets/images/us-jobs-logo.png'
-favicon: 'assets/images/favicon-us.ico'
+name: "Do's And Don'ts"
+description: "Discover essential do's and don'ts for travel, safety, driving, and daily life. Stay informed with practical tips and expert insights for smart decisions."
+logo: 'assets/images/do-logo.png'
+favicon: 'assets/images/favicon-do.ico'
 baseurl: ''
-disqus: 'demowebsite'
-email: 'up-skills@gmail.com'
+disqus: 'codingrhodes'
+url: 'https://do-and-donts.github.io'
+email: 'do.and.donts.info@gmail.com'
 mailchimp-list: ''
 
 include: ["_pages"]
