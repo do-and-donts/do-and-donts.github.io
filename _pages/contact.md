@@ -13,7 +13,7 @@ For general inquiries and support, email us at:
 ### 📝 Submit a Message  
 Fill out the form below to send us a message:  
 
-<form action="https://formspree.io/f/mvgzqzzn" method="POST">    
+<form action="https://formspree.io/f/xanqdayg" method="POST">    
 <p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
 <div class="form-group row">
 <div class="col-md-6">
@@ -33,6 +33,6 @@ Fill out the form below to send us a message:
 Stay connected for the latest job updates and career tips:  
 - **Twitter**: [@CODINGRHODES](https://twitter.com/CODINGRHODES)  
 
-📌 **Looking for a job?** Browse the latest listings at **[do-and-donts.github.io](https://do-and-donts.github.io/)**  
+📌 **Do and Don'ts ** Browse the latest Information at **[do-and-donts.github.io](https://do-and-donts.github.io/)**  
 
 ---
