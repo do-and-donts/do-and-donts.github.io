@@ -8,7 +8,7 @@ We’d love to hear from you! Whether you have questions, suggestions, or partne
 
 ### 📧 Email Us  
 For general inquiries and support, email us at:  
-**[codingrhodes@gmail.com](mailto:codingrhodes@gmail.com)**  
+**[do.and.donts.info@gmail.com](mailto:do.and.donts.info@gmail.com)**  
 
 ### 📝 Submit a Message  
 Fill out the form below to send us a message:  
@@ -33,6 +33,6 @@ Fill out the form below to send us a message:
 Stay connected for the latest job updates and career tips:  
 - **Twitter**: [@CODINGRHODES](https://twitter.com/CODINGRHODES)  
 
-📌 **Looking for a job?** Browse the latest listings at **[us-jobs.github.io](https://us-jobs.github.io/)**  
+📌 **Looking for a job?** Browse the latest listings at **[do-and-donts.github.io](https://do-and-donts.github.io/)**  
 
 ---
