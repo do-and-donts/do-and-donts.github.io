@@ -1,39 +1,33 @@
 ---
 title: "Disclaimer"
-layout: page-sidebar
-permalink: "/disclaimer"
+description: "Read the disclaimer for Do & Don’ts. We provide informational content only and do not offer legal, medical, or professional advice."
+layout: page
+permalink: /disclaimer/
 ---
 
-Welcome to **US Jobs** (**us-jobs.github.io**). The information provided on this website is for general informational purposes only. By using this site, you acknowledge and agree to the terms outlined in this Disclaimer.  
+The information provided on **Do & Don’ts** (https://do-and-donts.github.io) is for general informational purposes only. While we strive to ensure accuracy, we do not make any warranties about the completeness, reliability, or accuracy of this content. By using this website, you agree to the terms of this disclaimer.
 
-### 1. General Information  
-- The content on **US Jobs** is intended to provide job-related information, career advice, and job listings.  
-- While we strive to ensure accuracy, we do not guarantee that the information on this website is always up to date, complete, or free of errors.  
+### **1. No Professional Advice**
+The content on this website is not intended as professional advice, including but not limited to legal, medical, financial, or other expert guidance. You should always consult with a qualified professional before making decisions based on the information presented.
 
-### 2. No Professional Advice  
-- The job listings and career advice provided on this website do not constitute professional, legal, or financial advice.  
-- Users should verify job opportunities directly with the employer or hiring company before applying.  
+### **2. External Links Disclaimer**
+Our website may contain links to third-party websites. We do not control or guarantee the accuracy of information on external sites and are not responsible for their content, policies, or practices.
 
-### 3. Third-Party Links & Job Listings  
-- Our website may contain links to third-party job listings, recruitment agencies, or other external sites.  
-- We do not endorse, guarantee, or take responsibility for any job offer, hiring process, or the accuracy of third-party information.  
-- Any interactions with third-party websites or employers are at your own risk.  
+### **3. Affiliate Disclosure**
+Some of the links on this website may be affiliate links. This means we may earn a commission if you make a purchase through these links at no extra cost to you. Our recommendations are based on independent research, but you should always verify any product or service before making a purchase.
 
-### 4. Limitation of Liability  
-- **US Jobs** is not liable for any losses, damages, or inconveniences resulting from the use of the information provided on our website.  
-- We do not guarantee job placement, employment success, or the legitimacy of any job listing.  
+### **4. Limitation of Liability**
+Under no circumstances shall **Do & Don’ts** or its owners be liable for any direct, indirect, incidental, or consequential damages resulting from the use of this website. This includes but is not limited to errors, omissions, or inaccuracies in our content.
 
-### 5. User Responsibility  
-- Users are responsible for conducting their own research before applying to jobs or submitting personal information to potential employers.  
-- It is advised to be cautious of fraudulent job postings and employment scams.  
+### **5. Updates and Changes**
+We reserve the right to modify or update this disclaimer at any time. Any changes will be effective immediately upon posting. We encourage users to check this page periodically.
 
-### 6. Changes to This Disclaimer  
-We reserve the right to update or modify this Disclaimer at any time. Any changes will be posted on this page with the updated date.  
+### **6. Contact Us**
+If you have any questions about this disclaimer, feel free to reach out:
 
-### 7. Contact Us  
-If you have any questions about this Disclaimer, please contact us at:  
-📧 **[codingrhodes@gmail.com](mailto:codingrhodes@gmail.com)**  
-
-🔎 Visit **[us-jobs.github.io](https://us-jobs.github.io/)** for job listings and career insights.  
+📧 **Email:** [do.and.donts.info@gmail.com](mailto:do.and.donts.info@gmail.com)
+🌍 **Website:** [do-and-donts.github.io](https://do-and-donts.github.io)  
 
 ---
+
+Would you like any additional legal clauses or modifications? 😊

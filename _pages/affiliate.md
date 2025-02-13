@@ -1,32 +1,37 @@
 ---
-title: "Affiliate"
-layout: page-sidebar
-permalink: "/affiliate.html"
+title: "Affiliate Disclosure"
+description: "Learn about our affiliate partnerships and how they support Do & Don’ts."
+layout: page
+permalink: /affiliate/
 ---
 
-At **US Jobs** (**us-jobs.github.io**), transparency is important to us. This page explains how we use affiliate links and how they may impact you.  
+At **Do & Don’ts** (https://do-and-donts.github.io), we believe in transparency. To help support our site, we participate in various affiliate programs. This means we may earn a commission if you make a purchase through our affiliate links, at no additional cost to you.
 
-### 1. What Are Affiliate Links?  
-Some of the links on our website may be affiliate links, which means we earn a small commission if you click on the link and make a purchase or sign up for a service. This comes at no extra cost to you.  
+### **What Are Affiliate Links?**
+Affiliate links are special tracking links that direct you to a product or service. When you click on one of these links and make a purchase, we may receive a commission. These commissions help us maintain our website and provide high-quality content.
 
-### 2. Why Do We Use Affiliate Links?  
-Affiliate partnerships help us maintain and grow our website by covering costs such as hosting, content creation, and research. Our goal is to provide valuable job-related content while keeping the site free for users.  
+### **Why Do We Use Affiliate Links?**
+- To support the costs of running this website
+- To recommend products and services we believe in
+- To continue providing free and valuable content to our readers
 
-### 3. How Do Affiliate Links Affect You?  
-- Clicking an affiliate link does not increase the price you pay for a product or service.  
-- We only promote job boards, career tools, and services that we believe may be useful to our audience.  
-- You are under no obligation to click on any affiliate link or make a purchase through our recommendations.  
+### **Affiliate Programs & Partners**
+We participate in several affiliate programs, including but not limited to:
+- Amazon Associates
+- ShareASale
+- Commission Junction (CJ)
+- Other reputable affiliate networks
 
-### 4. Third-Party Responsibility  
-While we strive to recommend reputable products and services, **US Jobs** is not responsible for the policies, practices, or actions of any third-party companies linked on our website. We encourage users to review the terms and conditions of any service before signing up.  
+### **Our Commitment to Honesty**
+We only recommend products and services that we genuinely believe will benefit our readers. Our editorial content is not influenced by affiliate partnerships.
 
-### 5. Changes to This Disclosure  
-We may update this Affiliate Disclosure as needed. Any changes will be posted on this page with the updated date.  
+### **Your Choice**
+Using our affiliate links is entirely optional. If you prefer, you can go directly to the product website without using our links. Your support through these links helps us continue to provide valuable content.
 
-### 6. Contact Us  
-If you have any questions about our affiliate partnerships, feel free to reach out:  
-📧 **[codingrhodes@gmail.com](mailto:codingrhodes@gmail.com)**  
+### **Questions?**
+If you have any questions about our affiliate disclosure, feel free to contact us at:
 
-🔎 Visit **[us-jobs.github.io](https://us-jobs.github.io/)** for the latest job opportunities and career insights.  
+📧 **Email:** [do.and.donts.info@gmail.com](mailto:do.and.donts.info@gmail.com)
+🌍 **Website:** [do-and-donts.github.io](https://do-and-donts.github.io)
 
----
+Thank you for supporting **Do & Don’ts**!

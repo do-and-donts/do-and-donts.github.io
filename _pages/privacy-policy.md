@@ -1,43 +1,49 @@
 ---
 title: "Privacy Policy"
-permalink: "/privacy-policy"
----  
+description: "Learn how Do & Don’ts collects, uses, and protects your information. Your privacy matters to us."
+layout: page
+permalink: /privacy-policy/
+---
+ 
+Welcome to **Do & Don’ts**. Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you visit our website.
 
-Welcome to **US Jobs** (**us-jobs.github.io**). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you visit our website.  
+### **1. Information We Collect**
+We may collect the following types of information when you interact with our site:  
+- **Personal Information**: Name, email address (only when you contact us).  
+- **Non-Personal Information**: Browser type, IP address, pages visited, and time spent on the site.  
+- **Cookies and Tracking Technologies**: We use cookies to enhance user experience and analyze site performance.
 
-### 1. Information We Collect  
-We may collect the following types of information:  
-- **Personal Information**: When you contact us or subscribe to our updates, we may collect your name and email address.  
-- **Non-Personal Information**: We use cookies and analytics tools to gather anonymous data about website usage, such as page views and visitor demographics.  
+### **2. How We Use Your Information**
+We use collected information to:  
+- Improve website content and functionality.  
+- Respond to inquiries and provide customer support.  
+- Analyze website performance and user behavior.  
+- Comply with legal requirements.  
 
-### 2. How We Use Your Information  
-We use the collected data for the following purposes:  
-- To provide and improve our job listings and career-related content.  
-- To respond to inquiries and provide support.  
-- To analyze website traffic and enhance user experience.  
+### **3. Third-Party Links and Services**
+Our website may contain links to third-party websites, including **affiliate links**. Clicking on these links may allow third parties to collect data. We are not responsible for their privacy policies.
 
-### 3. Cookies and Tracking Technologies  
-Our website may use cookies to enhance user experience. These cookies help us understand visitor behavior and improve our services. You can disable cookies through your browser settings if you prefer not to allow them.  
+### **4. Google Analytics & Advertising**
+We use Google Analytics to track website traffic. Google may use cookies and collect data according to their [Privacy Policy](https://policies.google.com/privacy).  
 
-### 4. Third-Party Links  
-Our website may contain links to third-party job boards or services. We are not responsible for their privacy practices, so please review their privacy policies separately.  
+Additionally, we may display ads via **Google AdSense** or other networks. These third-party advertisers may collect data through cookies.
 
-### 5. Data Protection  
-We take security measures to protect your personal information from unauthorized access or misuse. However, no method of transmission over the internet is 100% secure.  
+### **5. Data Security**
+We take reasonable steps to protect your data. However, no online transmission is 100% secure. By using our site, you acknowledge and accept this risk.
 
-### 6. Your Rights  
-You have the right to:  
-- Request access to the personal information we hold about you.  
-- Request the correction or deletion of your personal data.  
-- Opt-out of email communications at any time.  
+### **6. Your Rights & Choices**
+- **Opt-Out of Cookies**: You can disable cookies in your browser settings.  
+- **Request Data Deletion**: Contact us if you wish to delete your personal data.  
+- **Manage Communications**: You can unsubscribe from emails at any time.
 
-### 7. Changes to This Privacy Policy  
-We may update this Privacy Policy from time to time. Any changes will be posted on this page with the updated date.  
+### **7. Updates to This Privacy Policy**
+We may update this policy periodically. Please review it regularly for changes.
 
-### 8. Contact Us  
-If you have any questions regarding this Privacy Policy, please contact us at:  
-📧 **[codingrhodes@gmail.com](mailto:codingrhodes@gmail.com)**  
-
-🔎 Visit **[us-jobs.github.io](https://us-jobs.github.io/)** for the latest job listings and career insights.  
+### **8. Contact Us**
+If you have any questions about this Privacy Policy, please contact us at:  
+📧 **Email:** [do.and.donts.info@gmail.com](mailto:do.and.donts.info@gmail.com)
+🌍 **Website:** [do-and-donts.github.io](https://do-and-donts.github.io)
 
 ---
+
+Would you like any modifications, such as GDPR compliance details or additional legal clauses? 😊
