@@ -2,7 +2,7 @@
 title: "Terms of Service"
 description: "Read the Terms of Service for Do & Don’ts. Understand our guidelines, content usage policies, and legal disclaimers."
 layout: page
-permalink: /terms-of-service/
+permalink: /terms-of-service
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Disclaimer"
 description: "Read the disclaimer for Do & Don’ts. We provide informational content only and do not offer legal, medical, or professional advice."
 layout: page
-permalink: /disclaimer/
+permalink: /disclaimer
 ---
 
 The information provided on **Do & Don’ts** (https://do-and-donts.github.io) is for general informational purposes only. While we strive to ensure accuracy, we do not make any warranties about the completeness, reliability, or accuracy of this content. By using this website, you agree to the terms of this disclaimer.

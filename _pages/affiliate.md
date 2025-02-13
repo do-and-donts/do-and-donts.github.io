@@ -2,7 +2,7 @@
 title: "Affiliate Disclosure"
 description: "Learn about our affiliate partnerships and how they support Do & Don’ts."
 layout: page
-permalink: /affiliate/
+permalink: /affiliate
 ---
 
 At **Do & Don’ts** (https://do-and-donts.github.io), we believe in transparency. To help support our site, we participate in various affiliate programs. This means we may earn a commission if you make a purchase through our affiliate links, at no additional cost to you.

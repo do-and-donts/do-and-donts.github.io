@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 description: "Learn how Do & Don’ts collects, uses, and protects your information. Your privacy matters to us."
 layout: page
-permalink: /privacy-policy/
+permalink: /privacy-policy
 ---
  
 Welcome to **Do & Don’ts**. Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you visit our website.
