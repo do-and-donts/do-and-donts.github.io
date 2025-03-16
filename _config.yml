@@ -1,7 +1,7 @@
 # Site
 name: "Do's And Don'ts"
 description: "Discover essential do's and don'ts for travel, safety, driving, and daily life. Stay informed with practical tips and expert insights for smart decisions."
-logo: 'assets/images/do-logo-1.png'
+logo: 'assets/images/do-logo.png'
 favicon: 'assets/images/favicon-do.ico'
 baseurl: ''
 disqus: 'codingrhodes'
