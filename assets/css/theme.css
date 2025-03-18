@@ -697,6 +697,12 @@ footer {
 	z-index:1022;
 	position:relative;
 }
+.footer-branding {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+}
 .sticky-top-offset {
 	top:70px;
 }
