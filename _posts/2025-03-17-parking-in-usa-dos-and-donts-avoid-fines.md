@@ -15,8 +15,6 @@ Parking in the USA can be tricky, especially for tourists and new residents. Wit
 
 This guide will walk you through **where and how to park legally**, common violations, and tips for stress-free parking in the USA.
 
-
-
 ---
 
 ## Do’s of Parking in the USA
