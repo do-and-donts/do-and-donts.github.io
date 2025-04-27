@@ -17,50 +17,50 @@ This guide covers the **do’s and don’ts of gas station etiquette**, ensuring
 
 ## Do’s of Gas Station Etiquette
 
-✅ **Pull Up to the Pump Properly**  
+- **Pull Up to the Pump Properly**  
 Align your vehicle correctly to avoid blocking extra space. Be mindful of others waiting in line.
 
-✅ **Turn Off Your Engine**  
+- **Turn Off Your Engine**  
 Always turn off your car before refueling to prevent any fire hazards.
 
-✅ **Follow Payment Procedures**  
+- **Follow Payment Procedures**  
 Decide whether you’re paying with **cash or card** before starting to keep the line moving smoothly.
 
-✅ **Be Quick & Efficient**  
+- **Be Quick & Efficient**  
 Get out, pump your gas, and move on. Avoid unnecessary delays.
 
-✅ **Secure the Gas Cap Properly**  
+- **Secure the Gas Cap Properly**  
 After refueling, double-check that your gas cap is securely closed to avoid leaks.
 
-✅ **Respect the No-Smoking Rule**  
+- **Respect the No-Smoking Rule**  
 Smoking near fuel is dangerous and prohibited at all gas stations.
 
-✅ **Dispose of Trash Responsibly**  
+- **Dispose of Trash Responsibly**  
 Use the designated bins to keep the area clean.
 
-✅ **Check for Spills and Clean Up**  
+- **Check for Spills and Clean Up**  
 If you spill fuel, notify the attendant or clean it up immediately.
 
 ---
 
 ## Don’ts of Gas Station Etiquette
 
-❌ **Don’t Leave Your Car Unattended**  
+- **Don’t Leave Your Car Unattended**  
 Stay with your vehicle while refueling to prevent hazards and delays.
 
-❌ **Don’t Block Other Pumps**  
+- **Don’t Block Other Pumps**  
 Once you’re done, move your car to allow others to use the pump.
 
-❌ **Don’t Top Off the Tank**  
+- **Don’t Top Off the Tank**  
 Overfilling can lead to fuel spills and damage to your car’s vapor recovery system.
 
-❌ **Don’t Use Your Phone While Pumping Gas**  
+- **Don’t Use Your Phone While Pumping Gas**  
 There’s a small risk of static electricity igniting fuel vapors, and being distracted can lead to accidents.
 
-❌ **Don’t Blast Loud Music**  
+- **Don’t Blast Loud Music**  
 Be considerate of others and keep noise levels in check.
 
-❌ **Don’t Forget to Replace the Nozzle**  
+- **Don’t Forget to Replace the Nozzle**  
 Ensure you return the fuel nozzle properly after use.
 
 ---
@@ -97,6 +97,6 @@ No, once you’re done refueling, move your car to make room for others.
 
 Being **courteous, safe, and efficient** at gas stations ensures a smooth experience for everyone. Follow these gas station etiquette tips to **avoid mistakes, stay safe, and be respectful of others** while refueling. 
 
-🚗⛽ Happy and safe travels!
+ Happy and safe travels!
 
 ---

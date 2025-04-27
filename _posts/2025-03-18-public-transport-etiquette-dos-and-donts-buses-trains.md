@@ -17,32 +17,32 @@ In this guide, we’ll cover **the essential rules of public transport etiquette
 
 ## Do’s of Public Transport Etiquette
 
-### ✅ Be Prepared Before Boarding
+### - Be Prepared Before Boarding
 - Have your ticket, pass, or payment method ready before getting on the bus or train.
 - If you're using a contactless payment method, ensure it's working to avoid delays.
 - Let passengers exit before boarding to keep the flow of movement smooth.
 
-### ✅ Offer Your Seat When Necessary
+### - Offer Your Seat When Necessary
 - Give up your seat to **elderly passengers, pregnant women, and individuals with disabilities**.
 - Look for designated priority seating and avoid using it if you don’t need it.
 
-### ✅ Keep Noise Levels Low
+### - Keep Noise Levels Low
 - Use **headphones** when listening to music, podcasts, or watching videos.
 - Speak in a **moderate tone** when talking on the phone or with a companion.
 
-### ✅ Respect Personal Space
+### - Respect Personal Space
 - Avoid leaning on poles or blocking aisles.
 - If seats are available, avoid standing too close to seated passengers.
 
-### ✅ Follow Local Rules and Guidelines
+### - Follow Local Rules and Guidelines
 - Each city may have its own public transport regulations—**check signs and announcements** for rules.
 - Be mindful of specific rules regarding bikes, large luggage, and strollers on public transport.
 
-### ✅ Move to the Back When Boarding Buses
+### - Move to the Back When Boarding Buses
 - If a bus is crowded, move toward the back to allow more people to board.
 - Keep the **front seats free for those who need them most**.
 
-### ✅ Use Handrails for Safety
+### - Use Handrails for Safety
 - Sudden stops can happen—**hold onto handrails or straps** to avoid falling.
 - If seated, keep bags and belongings secure.
 
@@ -50,27 +50,27 @@ In this guide, we’ll cover **the essential rules of public transport etiquette
 
 ## Don’ts of Public Transport Etiquette
 
-### ❌ Don’t Block Doors
+###  Don’t Block Doors
 - Stand clear of the doors to allow passengers to exit quickly.
 - Avoid crowding near the doors if space is available elsewhere in the bus or train.
 
-### ❌ Don’t Take Up Extra Seats
+###  Don’t Take Up Extra Seats
 - Place bags or belongings on your lap, not on the seat next to you.
 - During rush hours, avoid spreading out unnecessarily.
 
-### ❌ Don’t Eat Strong-Smelling Food
+###  Don’t Eat Strong-Smelling Food
 - Many transit systems prohibit eating and drinking—**check the rules before you snack**.
 - Avoid bringing strong-smelling or messy foods on board.
 
-### ❌ Don’t Play Loud Music or Videos
+###  Don’t Play Loud Music or Videos
 - Even with headphones, keep the volume low to avoid disturbing others.
 - Never play music or videos on speakers.
 
-### ❌ Don’t Litter
+###  Don’t Litter
 - Dispose of trash properly or **take it with you** if no trash bins are available.
 - Keep food and drinks sealed to prevent spills.
 
-### ❌ Don’t Push or Rush
+###  Don’t Push or Rush
 - Allow people to exit before entering.
 - If the vehicle is crowded, be patient and wait for the next one.
 
@@ -78,17 +78,17 @@ In this guide, we’ll cover **the essential rules of public transport etiquette
 
 ## Additional Tips for Specific Situations
 
-### 🚇 **Subway & Train Etiquette**
+### **Subway & Train Etiquette**
 - **Stand on the right** side of escalators and walk on the left.
 - If using a backpack, hold it in front of you to create more space.
 - Avoid unnecessary eye contact with strangers.
 
-### 🚌 **Bus Etiquette**
+### **Bus Etiquette**
 - Use the **rear door for exiting** if possible to speed up boarding.
 - Have your **exact fare** ready if paying with cash.
 - Be patient with stops—drivers have specific routes to follow.
 
-### ♿ **Etiquette for Riders with Disabilities**
+### **Etiquette for Riders with Disabilities**
 - Be respectful of **priority seating and accessible areas**.
 - If someone needs assistance, **ask before helping** to avoid unwanted interference.
 - Give space to **wheelchair users and service animals**.
@@ -118,4 +118,4 @@ Stay calm and **get off at the next stop**. Most transit systems offer **return 
 
 Understanding the **US do’s and don’ts** for public transport ensures a respectful and efficient travel experience. By following these simple etiquette rules, you contribute to a **safer, more comfortable ride** for yourself and everyone around you. Whether you're commuting daily or using public transport as a visitor, practicing **good manners and awareness** makes all the difference.
 
-🚆 **Follow these guidelines and enjoy a stress-free public transport experience in the USA!** 🚌
+**Follow these guidelines and enjoy a stress-free public transport experience in the USA!** 
